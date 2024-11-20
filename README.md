@@ -4,4 +4,4 @@
 for CSE5109, CSEG109, AIE5109, AIEG109
 
 ## LAB notes
-1. Basic Audio File Handling
+1. [Basic Audio File Handling](https://github.com/june-oh/2024_cseg109/blob/main/Lab_1_Basic_Numpy_and_Siganl_Processing.ipynb)
